@@ -1,0 +1,85 @@
+.heads{
+    text-align: center;
+    color: red;
+    padding: 2%;
+    text-decoration: underline;
+    font-style: italic;
+    font-family: sans-serif;
+} 
+ .project{
+    display:inline-block;
+    margin-right: 150px;
+  }
+  .container{
+      background-color: yellow;
+      border: 5px solid;
+  }
+  .extra_info{
+      background-color: grey;
+      height: 100vh;
+      width: 40%;
+      color: white;
+      font-size: larger;
+      border: 2px solid red;
+      margin: 2%;
+      animation-name: example;
+      animation-duration: 10s;
+      padding: 5%;
+  }
+  @keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
+  button{
+      border: 2px solid;
+      width: 50%;
+      background-color: green;
+      height: 4%;
+      margin: 20% 20% 20% 20%;
+      font-size: medium;
+      cursor: pointer;
+  }
+  a{
+      color:brown;
+      text-decoration: none;
+      font-weight: bolder;
+  }
+  td {
+    border: 2px solid black;
+    font-weight: bolder;
+    font-size: 150%;
+  }
+  thead{
+      color:green;
+}
+ tbody{
+     color:blue;
+ }
+ table{
+     margin: 5%;
+     padding: 10%;
+ }
+ th{
+     background-color: yellow;
+     height: 80px;
+     border: 3px solid black;
+     font-size: 200%;
+ }
+.main_con{
+     display: flex;
+     flex-direction: row;
+     align-items: row;
+     justify-content: center;
+ }
+ li:hover{
+     background: white;
+    }
+ body{
+     background-color: bisque;
+ }
+ marquee{
+     color:green;
+     font-size: 300%;
+     text-decoration: underline;
+     background-color: aquamarine;
+ }
