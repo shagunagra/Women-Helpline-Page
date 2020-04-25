@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: brown;
+}
+form{
+    text-align: center;
+    padding: 5%;
+}
+label{
+    font-size: larger;
+    font-weight: bolder;
+    height: 30px;
+    margin: 3%;
+}
+input{
+    border: 2px solid;
+    height: 30px;
+    width: 25%;
+    margin: 2px;
+}
+body{
+    background-color: khaki;
+}
