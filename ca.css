@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+}
+section{
+    font-weight: bold;
+}
+h2{
+   text-decoration: underline; 
+   color: blue;
+}
+h3{
+    color: green;
+    text-decoration: underline;
+}
+body{
+    background-color: navajowhite;
+}
+a{
+    color:black;
+    text-decoration: none;
+    font-weight: bolder;
+    border: 1px;
+}
